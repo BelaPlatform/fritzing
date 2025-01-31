@@ -11,6 +11,6 @@ This repository contains Fritzing parts for Bela and Bela Mini, as well as Trill
 
 ![Location of Fritzing parts option button](parts_option_button.png)
 
-5. Navigate to the Bela Fritzing part you want to import on your comptuer, and click `Open`
+5. Navigate to the Bela Fritzing part you want to import on your computer, and click `Open`
 
 Now your part will appear in your `My Parts` folder. You can see these parts in Fritzing by clicking the `MINE` in the parts explorer). Just drag it on to the breadboard view to start using it!
